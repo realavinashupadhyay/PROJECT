@@ -1,0 +1,6 @@
+age,heart_rate,blood_pressure,temperature,gender,chief_complaint,medical_history,triage_level
+25,85,120,36.7,Female,Headache,Asthma,Moderate
+40,95,130,37.1,Male,Chest Pain,Diabetes,Critical
+30,80,110,36.5,Female,Fever,Hypertension,Low
+60,100,140,37.3,Male,Chest Pain,Heart Disease,Critical
+22,78,115,36.6,Female,Headache,None,Low
